@@ -1,0 +1,96 @@
+.navi{
+    margin: 10px;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+.navi .nav-item{
+    margin: 0 10px;
+}
+h1{
+    color: cyan;
+    padding-left: 10%;
+}
+h2{
+    color: black;
+    padding-left: 15%;
+    padding-right: 35%;
+      font-size: 1.5rem;
+      font-weight: bold;
+      padding-bottom: 10px;
+  }
+.weare{
+      padding-left: 15%;
+      padding-right: 25%;
+  }
+.title-midle{
+    text-align: center;
+    font-size: 30px;
+}
+hr{
+      border-style: none;
+      border-width: 10px;
+      width: 0%;
+      margin: 80px auto;
+  }
+
+.carousel-img{
+    padding-top: 0;
+    width: 100%;
+}
+.carousel .content{
+    position: absolute;
+    margin: 30%;
+    font-size: 50px;
+    font-weight: bold;
+}
+.button{
+    padding-left: 15%;
+}
+
+.what{
+    color: cyan;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    justify-content: center;
+}
+.tb-client{
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+  }
+.footer {
+    text-align: right;
+    padding: 3%;
+    background-color: black;
+    left: 0;
+    right: 0;    
+}
+.foter-spc{
+    margin: 0 20px;
+}
+.icon-footer{
+    color: white;
+    font-size: 30px;    
+}
+.footer-button{
+    position: absolute;
+    padding-right: 5%;
+}
+.indra{
+    position: absolute;
+    text-align: left;
+    font-size: 40px;
+    padding-left: 5%;
+}
+.card-img-top{
+    margin: 25%;
+    border-radius: 50% 50% ;
+    background-color: cyan;
+}
+.carder{
+    border-style: none;
+}
+.card{
+    border: none;
+}
