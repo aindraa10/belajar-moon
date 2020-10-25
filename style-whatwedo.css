@@ -32,24 +32,7 @@
     border-color: cyan;
     cursor: pointer;
 }
-.button .dft-button{
-    font-weight: bold;
-    padding-left: 20px;
-    padding-right: 20px;
-    background-color: white;
-    border: solid 3px;
-    border-radius: 10px;
-    border-color: cyan;
-}
-.d-flex .dft-button{
-    font-weight: bold;
-    padding-left: 20px;
-    padding-right: 20px;
-    background-color: white;
-    border: solid 3px;
-    border-radius: 10px;
-    border-color: cyan;
-}
+
 .footer-li .dft-button{
     font-weight: bold;
     padding-left: 20px;
@@ -75,6 +58,7 @@ h3{
 .www{
     text-align: center;
     margin: 0 30%;
+    font-size: 12px;
 }
 .weare{
       padding-left: 15%;
@@ -91,26 +75,10 @@ hr{
       margin: 80px auto;
   }
 
-.carousel-img{
-    padding-top: 0;
-    width: 100%;
-}
-.carousel .content{
-    position: absolute;
-    margin: 20%;
-    font-size: 50px;
-    font-weight: bold;
-    text-align: left;
-}
 .button{
     padding-left: 15%;
 }
 
-.tb-client{
-    text-align: center;
-    justify-content: center;
-    margin: auto;
-  }
 .footer {
     text-align: left;
     padding: 3%;
@@ -147,25 +115,38 @@ hr{
     padding-left: 5%;
 }
 .card .card-img-top{
-    width: 40%;
-    margin: 25%;
-    border-radius: 50% ;
-    background-color: cyan;
-}
-.card .card-img-top1{
-    width: 40%;
-    margin: 25%;
-    border-radius: 50% ;
-    background-color: yellow;
+    width: 80%;
+    margin: auto;
 }
 .card-title{
-    text-align: center;
+    text-align: left;
 }
 .card-text{
-    text-align: center;
+    text-align: left;
+    font-size: 12px;
 }
 .card{
     border-style: none;
     width: 18rem;
     height: 30rem;
+}
+.card-bd{
+    margin: auto;    
+    border-style: solid;
+    border-radius: 3%;
+    border-color: cyan;
+    width: 20rem;
+    height: 20rem;
+}
+.card-border .card-bd{
+width: 100%;
+font-size: 12px;
+
+}
+.card-bd .card-title1{
+    padding: 5%;
+}
+.card-bd .card-text1{
+    padding: 0 5%;
+    font-size: 12px;
 }
